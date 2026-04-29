@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/GitHub%20Student-Verified-success?style=flat" alt="GitHub Student Verified" />
 </p>
 
@@ -20,6 +19,8 @@
 - 🔭 Currently working on cloud-focused projects and improving university work to be production-ready
 - 📜 Preparing for **Microsoft AZ-104: Azure Administrator Associate** certification — an industry-recognized credential for managing Azure identities, governance, storage, compute, and virtual networks
 - 💬 Ask me about Azure, CloudSim, Java, microservices, and service-based systems
+
+> **Note on GitHub Activity:** I push complete, production-ready projects rather than daily incremental commits. Each repository represents a finished milestone with proper documentation, testing, and deployment considerations.
 
 ## 🛠️ Tech Stack
 

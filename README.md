@@ -7,12 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nandakishore-78">
-    <img src="https://komarev.com/ghpvc/?username=nandakishore-78&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/nandakishore-78?tab=followers">
-    <img src="https://img.shields.io/github/followers/nandakishore-78?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  </a>
+
   <img src="https://img.shields.io/badge/GitHub%20Student-Verified-success?style=flat" alt="GitHub Student Verified" />
 </p>
 

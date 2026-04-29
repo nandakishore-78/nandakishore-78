@@ -22,8 +22,8 @@
 
 - 🎓 MSc Advanced Computer Science at Leeds Beckett University, graduating July 2026
 - 🚀 Main aim: career in Cloud Engineering and DevOps
-- 🔭 Currently working on cloud-focused projects and improving university work to be more production-ready
-- 🌱 Currently preparing for the Microsoft **AZ-104** exam
+- 🔭 Currently working on cloud-focused projects and improving university work to be production-ready
+- 📜 Preparing for **Microsoft AZ-104: Azure Administrator Associate** certification — an industry-recognized credential for managing Azure identities, governance, storage, compute, and virtual networks
 - 💬 Ask me about Azure, CloudSim, Java, microservices, and service-based systems
 
 ## 🛠️ Tech Stack
@@ -63,18 +63,10 @@
 - **library-service**  
   Flask-based microservice for book loans, fines, and student account operations.
 
-## 🎯 Interested In
+## 🎯 Interests & Current Focus
 
-- Cloud Engineering
-- DevOps
-- Backend development
-- Microservices architecture
-- CI/CD and deployment workflows
-- Production-ready project structure and documentation
-
-## 📚 Current Focus
-
-- Microsoft Azure and cloud engineering
+- Cloud Engineering and DevOps
+- Microsoft Azure administration and infrastructure management (AZ-104 Exam)
 - Backend and microservices architecture
 - CI/CD and deployment workflows
 - Production-ready project structure and documentation
@@ -85,6 +77,11 @@
 - Deployed a WCF service to Azure App Service (PaaS) and explored cloud deployment trade-offs
 - Built a CNN-based waste segregation classifier using TensorFlow/Keras and Streamlit
 - Developed microservices with Spring Boot, Flask, Docker, JWT authentication, and service discovery
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nanda-kishore-guguloth-83282630b/)
+- 📧 Open to Cloud/DevOps opportunities in the UK
 
 ## ⚡ Fun Fact
 

@@ -79,12 +79,12 @@
 - CI/CD and deployment workflows
 - Production-ready project structure and documentation
 
-## 📊 GitHub Stats
+## 🚀 Project Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandakishore-78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishore-78&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+- Benchmarked REST vs gRPC in a microservices environment under high load using Apache JMeter and Chaos Monkey
+- Deployed a WCF service to Azure App Service (PaaS) and explored cloud deployment trade-offs
+- Built a CNN-based waste segregation classifier using TensorFlow/Keras and Streamlit
+- Developed microservices with Spring Boot, Flask, Docker, JWT authentication, and service discovery
 
 ## ⚡ Fun Fact
 

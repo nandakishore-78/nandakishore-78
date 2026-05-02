@@ -45,7 +45,7 @@
   Research work on intelligent and sustainable cloud-based resource management and scheduling using CloudSim and Java.
 
 - **student-microservice-v2**  
-  Full-stack student portal with REST vs gRPC benchmarking under high load.
+  Full-stack student portal with REST benchmarking under high load.
 
 - **wcf-calculator**  
   SOAP/WCF service deployed to Azure App Service (PaaS), exploring cloud deployment and service model trade-offs.

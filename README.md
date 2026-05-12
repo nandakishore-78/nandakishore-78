@@ -16,7 +16,7 @@
 
 - 🎓 MSc Advanced Computer Science at Leeds Beckett University
 - 🔭 Working on cloud-focused projects as part of my coursework
-- 📜 Currently preparing for the Microsoft AZ-104: Azure Administrator Associate certification
+- ✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Passed proctored exam May 2026 | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613)certification
 - 💬 Currently learning: Azure, CloudSim, Java, microservices, and service-based systems
 
 > **A quick note:** Most repos here are from my university coursework. I'm continually learning and improving!
@@ -52,3 +52,9 @@
 ## ⚡ Fun Fact
 
 - I enjoy games, anime, and checking out JDM and automobile builds.
+
+## 🏅 Certifications
+
+| Certification | Issued | Valid Until | Verify |
+|---|---|---|---|
+| [![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613) | May 2026 | May 2027 | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613) |

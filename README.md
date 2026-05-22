@@ -54,6 +54,8 @@
 - Azure infrastructure and administration
 - Microservices and cloud-native architecture
 - CI/CD automation and deployment pipelines
+- Preparing for Microsoft Certified: DevOps Engineer Expert (AZ-400)
+
 
 ## Let's Connect
 

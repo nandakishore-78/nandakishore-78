@@ -18,12 +18,23 @@
 - 🔭 Working on cloud-focused projects as part of my coursework
 - ✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Passed proctored exam May 2026 | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613)certification
 - 💬 Currently learning: Azure, CloudSim, Java, microservices, and service-based systems
+- 
+### 💻 Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 > **A quick note:** Most repos here are from my university coursework. I'm continually learning and improving!
 
 ## 📌 Featured Work
 
-- **dissertation-phase-1** — Research on intelligent and sustainable cloud-based resource management using CloudSim and Java
 - **student-microservice-v2** — Full-stack student portal with REST benchmarking
 - **wcf-calculator** — SOAP/WCF service deployed to Azure App Service
 - **waste-segregation-classifier** — CNN-based plastic waste classification using TensorFlow/Keras and Streamlit
@@ -34,7 +45,7 @@
 
 - Cloud Engineering and DevOps
 - Microsoft Azure administration and infrastructure management
-- Backend and microservices architecture
+- Microservices and cloud-native architecture
 - CI/CD and deployment workflows
 
 ## 🚀 Project Highlights
@@ -52,9 +63,6 @@
 ## ⚡ Fun Fact
 
 - I enjoy games, anime, and checking out JDM and automobile builds.
-
 ## 🏅 Certifications
 
-| Certification | Issued | Valid Until | Verify |
-|---|---|---|---|
-| [![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613) | May 2026 | May 2027 | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613) |
+- **Microsoft Certified: Azure Administrator Associate** — Issued May 2026 | Valid until May 2027 | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/NandaKishore-5910/A876DC6E9C86C613?sharingId=A876DC6E9C86C613)
